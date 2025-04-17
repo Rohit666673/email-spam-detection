@@ -7,7 +7,7 @@ The dataset is sourced from Kaggle's SMS Spam Collection Dataset.
 
 Source:- Spam Email Dataset on Kaggle
 
-Requirements:=
+Requirements:-
 Python 
 
 pandas 
