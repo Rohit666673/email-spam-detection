@@ -1,4 +1,5 @@
 📧 Email Spam Detection Using Machine Learning
+
 Overview:-
 This project builds a machine learning model to classify emails as spam or not spam. The model uses the SpamAssassin public dataset and is trained using algorithms like Logistic Regression, Naive Bayes, and Random Forest to predict spam emails.
 
